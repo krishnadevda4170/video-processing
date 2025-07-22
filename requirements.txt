@@ -1,0 +1,6 @@
+streamlit
+opencv-python
+moviepy
+SpeechRecognition
+pydub
+ffmpeg-python
